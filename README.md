@@ -1,15 +1,53 @@
-## Hi there 👋
+# Gabriel Quero (GQueroIT)
 
-<!--
-**GQueroIT/GQueroIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT student building real-world, documented troubleshooting projects while I work toward my degree and certifications gaining real experience. My focus is hands-on labs, strong documentation, and job-ready support skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on obtaining the Comptia Security+ certification
-- 🌱 I’m currently learning C++ and OOP in school and I am Majoring in Information Technology
-- 👯 I’m looking to collaborate on various projects that will enhance my knowledge in various IT driven scenarios
-- 🤔 I’m looking for help with creating experience to land a job in the tech industry
-- 💬 Ask me about ...
-- 📫 How to reach me: Phone 6465259083 or email gquero52@outlook.com
-- ⚡ Fun Fact: I love watching basketball 
--->
+## What I’m working on right now
+- Building a public portfolio of IT troubleshooting case studies (Windows/Linux, networking, hardware, Git)
+- Developing consistent documentation habits (logs, screenshots, root-cause + resolution)
+- Strengthening core IT fundamentals: networking, operating systems, and support workflows
+- SQL fundamentals in Database Design
+- Building SQL Workbench fundamentals
+- Building foundational skills in C++ and Object-Oriented Programming 
+- Gaining VS Code program experience running code using python and C++
+- Networking labs using Packet Tracer and CompTIA Labs 
+- Practicing OS commands using Powershell, Command Prompt for Windows and Bash for Linux
+
+---
+
+## Featured Project
+### Ubuntu Network Troubleshooting Case Study (ASUS Vivobook F1504V)
+
+A documented troubleshooting journey: Ubuntu installation → MediaTek WiFi issues → hardware replacement with Intel AX210 → restored connectivity → Git + GitHub setup.
+
+Repository:
+https://github.com/GQueroIT/Ubuntu-Network-Troubleshooting-Case-Study--Vivobook-F1504V
+
+What I demonstrated:
+- OS deployment & configuration
+- Hardware compatibility troubleshooting
+- Network verification (DNS + connectivity checks)
+- Version control setup (Git, remote, push, tracking)
+
+---
+
+## Skills I’m building (hands-on)
+- Operating Systems: Windows 11, Ubuntu Linux
+- Networking: adapters/drivers, connectivity checks, DNS troubleshooting, TCP/IP Troubleshooting, CISCO systems
+- Tools: Git, GitHub, PowerShell, CLI troubleshooting
+- Documentation: structured incident notes, evidence capture, reproducible steps
+
+---
+
+## Project Structure Approach
+I strive to organize repositories like a real support workflow:
+- docs/ for reports
+- logs/ for command outputs
+- evidence/ for proof of testing
+- screenshots/ for visual validation
+
+---
+
+This profile will continue evolving as I add more labs and real-world troubleshooting projects.
