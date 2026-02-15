@@ -1,6 +1,9 @@
 # Gabriel Quero (GQueroIT)
 
-I’m an IT student building real-world, documented troubleshooting projects while I work toward my degree and certifications gaining real experience. My focus is hands-on labs, strong documentation, and job-ready support skills.
+I'm an Information Technology student building real-world, documented troubleshooting case studies while pursuing my degree and industry certifications. My focus is hands-on lab work, structured technical documentation, and developing job-ready support and systems skills through practical problem-solving.
+
+## Education
+-B.S. Information Technology (in progress) at Empire State University
 
 ---
 
@@ -38,6 +41,7 @@ What I demonstrated:
 - Networking: adapters/drivers, connectivity checks, DNS troubleshooting, TCP/IP Troubleshooting, CISCO systems
 - Tools: Git, GitHub, PowerShell, CLI troubleshooting
 - Documentation: structured incident notes, evidence capture, reproducible steps
+- Languages: C++ & OOP, SQL, Python
 
 ---
 
