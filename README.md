@@ -1,57 +1,160 @@
-# Gabriel Quero (GQueroIT)
+\# Gabriel Quero (GQueroIT)
 
-I'm an Information Technology student building real-world, documented troubleshooting case studies while pursuing my degree and industry certifications. My focus is hands-on lab work, structured technical documentation, and developing job-ready support and systems skills through practical problem-solving.
 
-## Education
--B.S. Information Technology (in progress) at Empire State University
 
----
+I’m an Information Technology student building real-world, documented troubleshooting case studies, networking labs, and hands-on technical projects while pursuing my degree and industry certifications. My focus is on practical lab work, structured documentation, and building job-ready support, systems, and networking skills through real problem-solving.
 
-## What I’m working on right now
-- Building a public portfolio of IT troubleshooting case studies (Windows/Linux, networking, hardware, Git)
-- Developing consistent documentation habits (logs, screenshots, root-cause + resolution)
-- Strengthening core IT fundamentals: networking, operating systems, and support workflows
-- SQL fundamentals in Database Design
-- Building SQL Workbench fundamentals
-- Building foundational skills in C++ and Object-Oriented Programming 
-- Gaining VS Code program experience running code using python and C++
-- Networking labs using Packet Tracer and CompTIA Labs 
-- Practicing OS commands using Powershell, Command Prompt for Windows and Bash for Linux
 
----
 
-## Featured Project
-### Ubuntu Network Troubleshooting Case Study (ASUS Vivobook F1504V)
+\[!\[Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge)](https://raw.githubusercontent.com/GQueroIT/CCNA-Networking-Labs/main/90-Assets/resume/Gabriel\_Quero\_HelpDesk\_Resume\_Updated.pdf)
 
-A documented troubleshooting journey: Ubuntu installation → MediaTek WiFi issues → hardware replacement with Intel AX210 → restored connectivity → Git + GitHub setup.
+\[!\[CCNA Lab Portfolio](https://img.shields.io/badge/CCNA-Lab%20Portfolio-GitHub-1f6feb?style=for-the-badge)](https://github.com/GQueroIT/CCNA-Networking-Labs)
 
-Repository:
-https://github.com/GQueroIT/Ubuntu-Network-Troubleshooting-Case-Study--Vivobook-F1504V
+\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gabriel-quero-6678a384/)
+
+
+
+\* \* \*
+
+
+
+\## Education
+
+
+
+\- B.S. in Information Technology (in progress) at Empire State University
+
+
+
+\* \* \*
+
+
+
+\## What I’m working on right now
+
+
+
+\- Building a public portfolio of hands-on IT and networking labs
+
+\- Strengthening networking fundamentals through Cisco Packet Tracer and CCNA-focused lab work
+
+\- Practicing structured troubleshooting with Windows, Linux, hardware, and connectivity issues
+
+\- Improving documentation habits through screenshots, notes, verification steps, and resolution tracking
+
+\- Building stronger fundamentals in SQL, C++, Python, and technical workflow tools
+
+\- Gaining more command-line experience with PowerShell, Command Prompt, and Bash
+
+
+
+\* \* \*
+
+
+
+\## Featured Projects
+
+
+
+\### CCNA Networking Labs
+
+
+
+A growing hands-on networking lab portfolio built in Cisco Packet Tracer and organized like a professional skills repository. This project documents my progress through networking fundamentals, switching, routing, services, security, and troubleshooting while keeping the work clean, structured, and easy to follow.
+
+
+
+Repository: \[CCNA-Networking-Labs](https://github.com/GQueroIT/CCNA-Networking-Labs)
+
+
+
+What I’m demonstrating:
+
+\- Cisco CLI practice
+
+\- IPv4 addressing and subnetting
+
+\- Network verification and troubleshooting
+
+\- Structured documentation and lab evidence
+
+\- GitHub portfolio organization
+
+
+
+\### Ubuntu Network Troubleshooting Case Study (ASUS Vivobook F1504V)
+
+
+
+A documented troubleshooting journey from Ubuntu installation to MediaTek WiFi issues, hardware replacement with Intel AX210, restored connectivity, and GitHub documentation.
+
+
+
+Repository: \[Ubuntu Network Troubleshooting Case Study](https://github.com/GQueroIT/Ubuntu-Network-Troubleshooting-Case-Study--Vivobook-F1504V)
+
+
 
 What I demonstrated:
-- OS deployment & configuration
-- Hardware compatibility troubleshooting
-- Network verification (DNS + connectivity checks)
-- Version control setup (Git, remote, push, tracking)
 
----
+\- OS deployment and configuration
 
-## Skills I’m building (hands-on)
-- Operating Systems: Windows 11, Ubuntu Linux
-- Networking: adapters/drivers, connectivity checks, DNS troubleshooting, TCP/IP Troubleshooting, CISCO systems
-- Tools: Git, GitHub, PowerShell, CLI troubleshooting
-- Documentation: structured incident notes, evidence capture, reproducible steps
-- Languages: C++ & OOP, SQL, Python
+\- Hardware compatibility troubleshooting
 
----
+\- Network verification and connectivity testing
 
-## Project Structure Approach
-I strive to organize repositories like a real support workflow:
-- docs/ for reports
-- logs/ for command outputs
-- evidence/ for proof of testing
-- screenshots/ for visual validation
+\- Root-cause analysis and resolution tracking
 
----
+\- Version control setup with Git and GitHub
 
-This profile will continue evolving as I add more labs and real-world troubleshooting projects.
+
+
+\* \* \*
+
+
+
+\## Skills I’m building (hands-on)
+
+
+
+\- Operating Systems: Windows 11, Ubuntu Linux
+
+\- Networking: TCP/IP, DNS, DHCP, subnetting, connectivity checks, adapter and driver troubleshooting, Cisco CLI fundamentals
+
+\- Tools: Git, GitHub, PowerShell, Command Prompt, Bash, Packet Tracer
+
+\- Documentation: structured notes, screenshot evidence, reproducible steps, verification-based workflow
+
+\- Technical Learning: SQL, C++, Python, object-oriented programming fundamentals
+
+
+
+\* \* \*
+
+
+
+\## Project Structure Approach
+
+
+
+I try to organize my repositories the same way I would want to see real technical work documented:
+
+
+
+\- `docs/` for written reports and notes
+
+\- `logs/` for command output and testing results
+
+\- `evidence/` for proof of work
+
+\- `screenshots/` for visual validation
+
+\- clean folder structure that makes each project easy to review
+
+
+
+\* \* \*
+
+
+
+This profile will keep evolving as I add more labs, more troubleshooting case studies, and more documented hands-on work.
+
