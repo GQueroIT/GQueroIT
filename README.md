@@ -3,7 +3,7 @@
 I’m an Information Technology student building real-world, documented troubleshooting case studies, networking labs, and hands-on technical projects while pursuing my degree and industry certifications. My focus is on practical lab work, structured documentation, and building job-ready support, systems, and networking skills through real problem-solving.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge)](https://raw.githubusercontent.com/GQueroIT/CCNA-Networking-Labs/main/90-Assets/resume/Gabriel_Quero_HelpDesk_Resume_Updated.pdf)
-[![CCNA Lab Portfolio](https://img.shields.io/badge/CCNA-Lab%20Portfolio-GitHub-1f6feb?style=for-the-badge)](https://github.com/GQueroIT/CCNA-Networking-Labs)
+[![CCNA Labs](https://img.shields.io/badge/CCNA%20Labs-Portfolio-1f6feb?style=for-the-badge)](https://github.com/GQueroIT/CCNA-Networking-Labs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gabriel-quero-6678a384/)
 
 * * *
