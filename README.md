@@ -14,14 +14,15 @@ I’m an Information Technology student building real-world, documented troubles
 
 * * *
 
-## What I’m working on right now
+ ## What I’m working on right now
 
-- Building a public portfolio of hands-on IT and networking labs  
-- Strengthening networking fundamentals through Cisco Packet Tracer and CCNA-focused lab work  
-- Practicing structured troubleshooting with Windows, Linux, hardware, and connectivity issues  
-- Improving documentation habits through screenshots, notes, verification steps, and resolution tracking  
-- Building stronger fundamentals in SQL, C++, Python, and technical workflow tools  
-- Gaining more command-line experience with PowerShell, Command Prompt, and Bash  
+- Building a public portfolio of hands-on IT and networking labs
+- Strengthening networking fundamentals through Cisco Packet Tracer and CCNA-focused lab work
+- Developing Active Directory lab environments for domain administration and systems practice
+- Practicing structured troubleshooting with Windows, Linux, hardware, and connectivity issues
+- Improving documentation habits through screenshots, notes, verification steps, and resolution tracking
+- Building stronger fundamentals in SQL, C++, Python, and technical workflow tools
+- Gaining more command-line experience with PowerShell, Command Prompt, and Bash 
 
 * * *
 
@@ -31,14 +32,31 @@ I’m an Information Technology student building real-world, documented troubles
 
 A growing hands-on networking lab portfolio built in Cisco Packet Tracer and organized like a professional skills repository. This project documents my progress through networking fundamentals, switching, routing, services, security, and troubleshooting while keeping the work clean, structured, and easy to follow.
 
-Repository: https://github.com/GQueroIT/CCNA-Networking-Labs
+**Repository:** [CCNA-Networking-Labs](https://github.com/GQueroIT/CCNA-Networking-Labs)
 
-What I’m demonstrating:
-- Cisco CLI practice  
-- IPv4 addressing and subnetting  
-- Network verification and troubleshooting  
-- Structured documentation and lab evidence  
-- GitHub portfolio organization  
+**What I’m demonstrating:**
+- Cisco CLI practice
+- IPv4 addressing and subnetting
+- Network verification and troubleshooting
+- Structured documentation and lab evidence
+- GitHub portfolio organization
+
+---
+
+### Active Directory Lab
+
+A hands-on Windows Server lab built to simulate a real Active Directory environment. This project focuses on domain services, administrative structure, user and group management, and step-by-step documentation through an organized lab workflow.
+
+**Repository:** [ActiveDirectory-Lab](https://github.com/GQueroIT/ActiveDirectory-Lab)
+
+**What I’m demonstrating:**
+- Active Directory Domain Services (AD DS) deployment
+- Domain controller configuration
+- Organizational Unit (OU) structure
+- Administrative account and permissions setup
+- Windows domain environment management
+- VirtualBox lab setup and validation
+- Structured technical documentation with evidence
 
 ---
 
