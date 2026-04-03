@@ -67,6 +67,8 @@ A fully built and validated Windows Server Active Directory environment designed
 
 This project required troubleshooting across multiple layers of the environment, reinforcing real-world problem-solving and system-level understanding.
 
+---
+
 ### CCNA Networking Labs
 
  A structured, hands-on networking lab portfolio built in Cisco Packet Tracer and organized like a professional skills repository. This project documents my progress through networking fundamentals, switching, routing, services, security, and troubleshooting while keeping the work clean, structured, and easy to follow.
