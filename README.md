@@ -1,6 +1,16 @@
 # Gabriel Quero (GQueroIT)
 
-I’m an Information Technology student building real-world, documented troubleshooting case studies, networking labs, and hands-on technical projects while pursuing my degree and industry certifications. My focus is on practical lab work, structured documentation, and building job-ready support, systems, and networking skills through real problem-solving.
+**Hands-on Active Directory | Networking | IT Infrastructure | Troubleshooting**
+
+I design, build, and troubleshoot real-world IT infrastructure environments focused on system administration, networking, and enterprise-level problem solving.
+
+My work centers around:
+
+- Active Directory environments
+- Networking and infrastructure labs
+- Real-world troubleshooting scenarios
+
+I focus on hands-on implementation, structured documentation, and solving real technical problems across multiple layers of a system.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge)](https://raw.githubusercontent.com/GQueroIT/CCNA-Networking-Labs/main/90-Assets/resume/Gabriel_Quero_HelpDesk_Resume_Updated.pdf)
 [![CCNA Labs](https://img.shields.io/badge/CCNA%20Labs-Portfolio-1f6feb?style=for-the-badge)](https://github.com/GQueroIT/CCNA-Networking-Labs)
@@ -14,19 +24,48 @@ I’m an Information Technology student building real-world, documented troubles
 
 * * *
 
- ## What I’m working on right now
+## Current Focus
 
-- Building a public portfolio of hands-on IT and networking labs
-- Strengthening networking fundamentals through Cisco Packet Tracer and CCNA-focused lab work
-- Developing Active Directory lab environments for domain administration and systems practice
-- Practicing structured troubleshooting with Windows, Linux, hardware, and connectivity issues
-- Improving documentation habits through screenshots, notes, verification steps, and resolution tracking
-- Building stronger fundamentals in SQL, C++, Python, and technical workflow tools
-- Gaining more command-line experience with PowerShell, Command Prompt, and Bash 
+- Expanding hands-on experience with enterprise infrastructure environments  
+- Deepening networking knowledge through CCNA-level labs  
+- Building and refining Active Directory environments for real-world administration scenarios  
+- Strengthening troubleshooting across Windows, Linux, networking, and hardware  
+- Improving efficiency with PowerShell and command-line tools  
+- Preparing for CompTIA Network+ and cloud certifications  
 
 * * *
 
 ## Featured Projects
+
+### Enterprise Active Directory Infrastructure Lab
+
+**Repository** [ActiveDirectory-Lab](https://github.com/GQueroIT/ActiveDirectory-Lab)  
+
+A fully built and validated Windows Server Active Directory environment designed to simulate real-world enterprise infrastructure.
+
+### Key Implementations:
+
+- Active Directory Domain Services (AD DS) deployment  
+- Domain Controller (DC01) configuration  
+- Organizational Unit (OU) structure and hierarchy  
+- User and group management  
+- AGDLP permission model  
+- NTFS and share permissions  
+- Group Policy (GPO) implementation  
+- Drive mapping automation  
+- Security policy enforcement  
+- Advanced audit policy configuration  
+- File access auditing (Event ID 4663)  
+- Client-side administration using RSAT  
+
+### What makes this project strong:
+
+- Full end-to-end environment build  
+- Multi-layer troubleshooting (DNS, dual NIC, permissions, GPO)  
+- Client + server validation  
+- Structured documentation with logs and evidence  
+
+This project required troubleshooting across multiple layers of the environment, reinforcing real-world problem-solving and system-level understanding.
 
 ### CCNA Networking Labs
 
@@ -40,25 +79,6 @@ I’m an Information Technology student building real-world, documented troubles
 - Network verification and troubleshooting
 - Structured documentation and lab evidence
 - GitHub portfolio organization
-
----
-
-### Active Directory Lab (Enterprise Environment Simulation)
-
-A fully built Windows Server Active Directory environment designed to simulate real-world enterprise infrastructure. This lab focuses on domain services, administrative structure, and system-level management within a controlled virtual environment.
-
-Repository: https://github.com/GQueroIT/ActiveDirectory-Lab
-
-What I’m demonstrating:
-
-- Active Directory Domain Services (AD DS) deployment  
-- Domain Controller (DC01) configuration  
-- Organizational Unit (OU) structure and hierarchy  
-- User and group management  
-- Domain administration and permissions  
-- Windows client domain join and authentication  
-- VirtualBox lab environment setup and networking  
-- Step-by-step documentation with structured lab evidence  
 
 ---
 
@@ -77,7 +97,7 @@ What I demonstrated:
 
 * * *
 
-## Skills I’m building (hands-on)
+## Technical Skills
 
 - Operating Systems: Windows 11, Ubuntu Linux  
 - Networking: TCP/IP, DNS, DHCP, subnetting, connectivity checks, adapter and driver troubleshooting, Cisco CLI fundamentals  
@@ -87,7 +107,7 @@ What I demonstrated:
 
 * * *
 
-## Project Structure Approach
+## Documentation & Structure Approach
 
 I organize my repositories the same way I would want to see real technical work documented:
 
@@ -99,4 +119,4 @@ I organize my repositories the same way I would want to see real technical work 
 
 * * *
 
-This profile will continue to evolve as I add more labs, troubleshooting case studies, and documented hands-on work.
+This portfolio demonstrates the ability to design, implement, and troubleshoot enterprise-level IT systems with structured documentation and validated results.
