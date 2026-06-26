@@ -3,6 +3,7 @@
 ---
 
 <p align="left">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Active%20Directory-AD%20DS-003366?logo=windows&logoColor=white" />
@@ -13,10 +14,12 @@
 
 ---
 
-CompTIA Network+ | Microsoft Azure Fundamentals (AZ-900)  
-IT Support Candidate | Active Directory • Networking • Cloud
+CompTIA Security+ | CompTIA Network+ | Microsoft Azure Fundamentals (AZ-900)  
+IT Field Technician | Systems Administration • Networking • Identity • Cloud
 
-Hands-on lab builder focused on troubleshooting, system administration, and real-world IT environments. I approach every project from an operational perspective — not just configuration, but validation, troubleshooting, and system reliability.
+I build and maintain lab environments that mirror enterprise IT operations and use them to strengthen my understanding of systems administration, identity management, networking, and troubleshooting.
+
+Outside of labs, I currently support healthcare environments by deploying endpoints, imaging systems, resolving incidents, managing assets, and assisting end users in production environments.
 
 ---
 
@@ -38,18 +41,68 @@ https://github.com/GQueroIT/CCNA-Networking-Labs
 
 ---
 
-## What I Do
+# Professional Experience
 
-I build structured lab environments that simulate real-world IT systems and support scenarios.
+## Information Technology Field Technician
+Reforge Tech LLC
 
-My work focuses on:
+- Deploying, imaging, and configuring Windows endpoints
+- Supporting healthcare environments using ServiceDesk
+- Managing assets utilizing Asset Panda
+- Troubleshooting printers, scanners, workstations, and connectivity issues
+- Assisting with patch panel and network infrastructure tasks
+- Resolving incidents and documenting remediation efforts
+- Supporting eClinicalWorks environments
+- Participating in hardware refresh and deployment initiatives
 
-- Active Directory user and system administration
-- Network configuration and connectivity troubleshooting
-- Diagnosing authentication, DNS, and access-related issues
-- Linux system troubleshooting and hardware-level issue resolution
-- Documenting structured troubleshooting workflows
-- Understanding how systems interact across infrastructure
+## IT Systems Administrator (Work Study)
+Empire State University
+
+- Building and administering Sharepoint Online sites
+- Managing conference planning workflows
+- Supporting Microsoft Forms development
+- Organizing documentation repositories
+- Applying accessiblity considerations within Microsoft 365 environments
+- Assisting with process improvement initiatives
+
+---
+
+# Technical Skills
+
+## Infrastructure
+- Active Directory
+- Group Policy
+- DNS
+- DHCP
+- Windows Server
+
+## Networking
+- VLANs
+- NAT/PAT
+- IPv4 / IPv6
+- Routing
+- TCP/IP
+
+## Cloud & Identity
+- Azure
+- Microsoft Entra ID
+- Microsoft 365
+- Conditional Access
+- Identity Administration
+
+## Security
+- Security+
+- Splunk
+- Authentication Troubleshooting
+- Access Control
+- Security Fundamentals
+
+## Endpoint Management
+- Imaging
+- Device Deployment
+- Printer Support
+- Asset Management
+- Hardware Troubleshooting
 
 ---
 
@@ -73,7 +126,7 @@ My work focuses on:
 
 ---
 
-### Networking Lab Portfolio
+### Enterprise Network Infrastructure
 - Designed multi-subnet network environments using VLAN segmentation  
 - Configured inter-VLAN routing and NAT  
 - Implemented IPv4/IPv6 addressing across structured topologies  
@@ -84,17 +137,21 @@ My work focuses on:
 
 ## Current Focus
 
-- Building an Enterprise Help Desk & Microsoft 365 simulation environment  
-- Implementing ticketing systems (Jira, ServiceNow)  
-- Expanding into identity, endpoint management, and support workflows  
-- Continuing development in cloud technologies (Azure)
+- SC-300 Identity Security Project
+- Microsoft 365 Administration
+- Enterprise SharePoint Administration
+- Azure Administration
+- PowerShell Automation
+- Building Security Operations labs
 
 ---
 
 ## Certifications
 
+- CompTIA Security+ (SY0-701)
 - CompTIA Network+ (N10-009)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
+- Google IT Support Professional Certificate
 - EPA 608 Universal (HVAC)
 
 ---
@@ -110,4 +167,4 @@ LinkedIn: https://linkedin.com/in/gabriel-quero-6678a384
 
 ## Goal
 
-To secure an entry-level IT Support or Help Desk role where I can apply hands-on troubleshooting skills, support users in real-world environments, and continue growing in systems, networking, and cloud infrastructure.
+To continue growing within systems administration, identity, and cloud technologies while contributing to enterprise environments that value hands-on problem solving, operational excellence, and continuous learning.
