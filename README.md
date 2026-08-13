@@ -39,10 +39,6 @@ https://github.com/GQueroIT/Network-Operations-Gauntlet
 Windows Server domain setup, OU structure, GPOs, and AGDLP-based access control.
 https://github.com/GQueroIT/Enterprise-Active-Directory
 
-🐍 **Python Network & Cloud Automation**
-A self-built curriculum and application for automating Cisco IOS device state collection and Azure resource management with Python.
-https://github.com/GQueroIT/Python-Network-Automation-Engineer
-
 ---
 
 # Professional Experience
